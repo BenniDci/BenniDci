@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Testing this
-- 🌱 I’m currently learning Python JS and Java
-- 👯 I’m looking to collaborate on Google
+- 🌱 I’m currently learning  ..
+- 👯 I’m looking to ..
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: Instabla
+- 📫 How to reach me: ..
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Funny
+- ⚡ Fun fact: ..
 

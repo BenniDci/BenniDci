@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-![alt text]GIF Programming([http://url/to/img.png](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif))
+![alt text]([http://url/to/img.png](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif))
 
 - 🔭 I’m currently working on testing this
 - 🌱 I’m currently learning Python and JS

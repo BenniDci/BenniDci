@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 -->
+![alt text]Programmer GIF(![alt text](http://url/to/img.png))
+
 - 🔭 I’m currently working on testing this
 - 🌱 I’m currently learning Python and JS
 - 👯 I’m looking to ..

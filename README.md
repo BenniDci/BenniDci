@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Testing this
-- 🌱 I’m currently learning  ..
+- 🔭 I’m currently working on testing this
+- 🌱 I’m currently learning Python and JS
 - 👯 I’m looking to ..
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

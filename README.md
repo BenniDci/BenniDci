@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 ![alt text](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif))
 
 - 🔭 I’m currently working on testing this
-- 🌱 I’m currently learning Python and JS
+- 🌱 I’m currently learning Python and Java Script
 - 👯 I’m looking to ..
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
